@@ -1,0 +1,7 @@
+id = "black"
+name = "Black"
+version = "0.1.0"
+schema_version = 1
+authors = ["Sibiraj"]
+description = "True black theme for zed"
+repository = "https://github.com/sibiraj/zed-black"
